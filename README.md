@@ -23,6 +23,7 @@ The CV contains information about:
 
 ## Project Status
 Project is: complete
+https://jakubjonczykcvonline.b4a.app/
 
 ## Contact
 Email: jakubjonczyk@gmail.com
